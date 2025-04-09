@@ -1,4 +1,10 @@
 {
+  "name": "vitalcare-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/NeriJyu/vitalcare-backend.git",
+  "author": "Gustavo <gustavoneri20@hotmail.com>",
+  "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
